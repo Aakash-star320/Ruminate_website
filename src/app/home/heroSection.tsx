@@ -21,7 +21,7 @@ export default function HeroSection() {
             Foster The <span className={styles.heroSpark}>Spark</span>
           </h1>
           <p className={styles.heroSubtitle}>
-            Welcome to Ruminate – The E-Cell of IIIT Surat
+            Welcome to Ruminate &ndash; The E-Cell of IIIT Surat
           </p>
           <p className={styles.heroDescription}>
            "We foster a culture of innovation, creativity, and entrepreneurial thinking — empowering students to explore, build, and lead."
