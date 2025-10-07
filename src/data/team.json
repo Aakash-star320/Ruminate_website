@@ -5,13 +5,28 @@
       { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img":  "some2.jpg" },
        { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img":  "some2.jpg" }
   ],
-  "Alumini": [
-    { "name": "Ravi Sharma", "role": "Alumnus - Batch 2022", "img":  "some2.jpg" }
+  "Alumni": [
+    { "name": "Arya Trivedi", "role": "Alumnus - Batch 2022", "img":  "/allumni/Arya_Trivedi.jpg" },
+    {"name" : "Harvardhan Tripathi", "role": "Alumnus - Batch 2022", "img":  "/allumni/HarvardhanTripathi.jpg"}
   ],
   "Developers": [
-    { "name": "Rahul Jain", "role": "Full Stack Developer", "img":  "some2.jpg" }
+    { "name": "Ronit Choudhary", "role": "Full Stack Developer", "img":  "/developers/Copy of Ronit.JPG" },
+    { "name": "Yogesh Khinchi", "role": "Frontend Developer", "img":  "/developers/Yogesh.jpg" },
+    { "name": "Akash Singh", "role": "UI/UX Designer", "img":  "/contactUs/Copy of Sanket.JPG" }
   ],
   "Core Team 2025-2026": [
-    { "name": "Priya Singh", "role": "President", "img":  "some2.jpg" }
+    { "name": "Himanshu Shekhar", "role": "Secretary", "img": "some2.jpg" },
+    { "name": "Pratik Avhad", "role": "Joint Secretary", "img": "/coreTeam/Copy of Pratik.JPG" },
+    { "name": "Vasu", "role": "Finance Head , Design Head", "img": "/coreTeam/Vasu.JPG" },
+    { "name": "Mitul", "role": "Finance Head", "img": "/coreTeam/Copy of Mitul.JPG" },
+    { "name": "Sumit", "role": "Event Head", "img": "/coreTeam/Copy of Sumit.JPG" },
+    { "name": "Saquib", "role": "Event Head", "img": "/coreTeam/Copy of saquib.JPG" },
+    { "name": "Vivek Baya", "role": "Corporate Head", "img": "/coreTeam/Copy of Copy of Vivek.JPG" },
+    { "name": "Meetiksha", "role": "Design Head", "img": "/coreTeam/Copy of Meetiksha.JPG" },
+    { "name": "Ronit Choudhary", "role": "Tech Head", "img": "/coreTeam/Copy of Ronit.JPG" },
+    { "name": "Uday Dhakar", "role": "Marketing Head", "img": "/coreTeam/Copy of Uday.JPG" },
+    { "name": "Aryan Kumar", "role": "Media Head", "img": "/coreTeam/Copy of Aryan.JPG" },
+    { "name": "Ganesh Tilekar", "role": "Research Head", "img": "/coreTeam/Copy of Ganesh.JPG" },
+    { "name": "Aman Kumar", "role": "Content Head", "img": "/coreTeam/Copy of Aman.JPG" }
   ]
 }

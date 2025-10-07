@@ -46,7 +46,7 @@ export default function BlogClient() {
 
       <div className="blog-image-wrapper">
         <img
-          src={`/images/${blog.imageUrl}`}
+          src={`${blog.imageUrl}`}
           alt={blog.title}
           className="blog-image"
         />

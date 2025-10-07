@@ -40,7 +40,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.column}>
         <div className={styles.logoBlock}>
-          <img src="/ruminate-logo.png" alt="Ruminate Logo" className={styles.logo} />
+          <img src="/fire2.png" alt="Ruminate Logo" className={styles.logo} />
           <h2 className={styles.logoText}>Ruminate</h2>
           <span className={styles.subText}>E-Cell IIIT Surat</span>
         </div>

@@ -47,10 +47,10 @@ export default function CollaborationSection() {
         <h2 className={styles.collabHeading}>Collaboration</h2>
       </div>
       <div className={styles.collabScroll} ref={scrollRef}>
-        <img src="/some2.jpg" alt="Vysion" />
-        <img src="/some2.jpg" alt="StockGro" />
-        <img src="/some2.jpg" alt="Inside FPV" />
-        <img src="/some2.jpg" alt="KasperTech" />
+        <img src="/collabs/Frame 2610542.png" alt="StockGro" />
+        <img src="/collabs/Frame 2610543.png" alt="Finshots" />
+        <img src="/collabs/Frame 2610544.png" alt="Suman Book Store" />
+        <img src="/collabs/Frame 2610545.png" alt="KasperTech" />
       </div>
     </section>
   );

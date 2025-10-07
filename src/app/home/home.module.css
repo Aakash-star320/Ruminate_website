@@ -24,11 +24,11 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url('/some2.jpg');
+  background-image: url('/fire2.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  filter: brightness(0.4);
+  filter: brightness(0.7);
   z-index: 1;
 }
 
@@ -1060,7 +1060,7 @@
 }
 
 .logo {
-  width: 40px;
+  width: 60px;
   margin-bottom: 0.5rem;
 }
 

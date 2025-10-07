@@ -5,19 +5,19 @@ import Link from "next/link";
 
 const members = [
   {
-    name: "Vedie Chawla",
+    name: "Pratik Avhad",
     role: "Tech Head",
-    image: "/placeholder.jpg",
+    image: "/contactUs/Copy of Pratik.JPG",
   },
   {
-    name: "Harshwardhan M. Tripathi",
+    name: "Vivek Baya",
     role: "Secretary",
-    image: "/placeholder.jpg",
+    image: "/contactUs/Copy of Vivek.JPG",
   },
   {
-    name: "Arya Trivedi",
+    name: "Ronit Choudhary",
     role: "Joint Secretary",
-    image: "/placeholder.jpg",
+    image: "/contactUs/Copy of Ronit.JPG",
   },
 ];
 
@@ -54,9 +54,7 @@ export default function ContactUs() {
 
       <blockquote className={styles.quote}>
         <p>
-          “ We foster a culture of innovation, creativity, and
-          entrepreneurial thinking — empowering students to explore, build, and
-          lead. ”
+          “ Want to build, explore or lead, Ruminate is in the campus to help you concretize your ideas and shape up your creativity, learn to lead the team and build a network of like minded pupils. ”
         </p>
         <footer>— Team Ruminate</footer>
       </blockquote>

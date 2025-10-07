@@ -1,17 +1,27 @@
 [
-  {
-    "title": "E-Summit",
-    "description": "Annual entrepreneurship fest bringing together innovators and leaders.",
-    "image": "some2.jpg"
-  },
-  {
-    "title": "Spring Fiesta",
-    "description": "A celebration of ideas, creativity, and vibrant minds.",
-    "image": "some2.jpg"
-  },
-  {
-    "title": "Startup Talks",
-    "description": "Engaging talks by startup founders and industry experts.",
-    "image": "some2.jpg"
-  }
+{
+"title": "CORPORATE CRIME",
+"description": "This line invites you into an immersive mystery or puzzle-solving experience. Every clue you uncover is meaningful and leads to a deeper secret or revelation. Solving riddles is the key to progressing and uncovering the full truth. Teamwork and collaboration with others enhance your chances of success. The journey is all about sharp thinking, exploration, and decoding hidden trails.",
+"image": "some2.jpg"
+},
+{
+"title": "STOCKMANIA",
+"description": "From red to green—feel the market rush. Your portfolio just flipped, and so can your fortune. Stock Mania 2.0 is here—a thrilling chance to learn, strategize, and conquer the market. Experience the excitement of stock trading in a fast-paced, realistic simulation. Sharpen your decision-making skills and test your strategies under pressure. Join now to explore the highs and lows of the market like never before.",
+"image": "some2.jpg"
+},
+{
+"title": "IPL AUCTION",
+"description": "IPL Auction 2025 – build your dream team and outbid the competition. Step into the shoes of a franchise owner and experience the thrill of strategic bidding. Analyze players, manage your budget, and make bold choices under pressure. Outsmart your rivals and create a winning squad that reflects your vision. It's more than a game—it's a battle of strategy, instinct, and cricketing insight.",
+"image": "some2.jpg"
+},
+{
+"title": "YOUTH PARLIAMENT",
+"description": "Empowering youth, shaping economies – become the voice that drives transformation. Step into a platform where ideas meet action and ambitions take flight. Engage in thought-provoking discussions and make your perspectives count. Inspire change by addressing real-world challenges with innovative solutions. This is your moment to lead, influence, and redefine the future.",
+"image": "some2.jpg"
+},
+{
+"title": "KNOW THE BUSINESS",
+"description": "Get ready to dive into the ultimate business showdown. Think you have what it takes to outsmart the competition? Join us at 'Know the Business' and put your knowledge to the test. Navigate challenges, make sharp decisions, and prove your business acumen. Climb your way to the top and claim your place among the best.",
+"image": "some2.jpg"
+}
 ]

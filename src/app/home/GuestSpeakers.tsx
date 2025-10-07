@@ -2,12 +2,11 @@
 import styles from "./home.module.css";
 
 const speakers = [
-  "/some2.jpg",
-  "/some2.jpg",
-  "/some2.jpg",
-  "/some2.jpg",
-  "/some2.jpg",
-  "/some2.jpg",
+  "/speakers/IMG_4208.JPG",
+  "/speakers/Ekta mam.webp",
+  "/speakers/Krishna Sir.webp",
+  "/speakers/oshi.webp",
+  "/speakers/Pranjal Kamra.jpg"
 ];
  // replace with real images
 const testimonies = [

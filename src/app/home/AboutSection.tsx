@@ -51,8 +51,7 @@ export default function AboutSection() {
               About <span className={styles.orangeText}>Ruminate</span>
             </h2>
             <p className={styles.aboutDescription}>
-              At IIIT Surat&apos;s Ruminate Club, we believe that every idea holds the potential to spark a revolution. 
-              We&apos;re a community of passionate thinkers and fearless doers who thrive on curiosity, collaboration, and creativity.
+              A club driven by many young business minded students to foster a culture of entrepreneurship at campus of IIIT Surat, Not only promoting the entrepreneurship culture, the club also encourages the youth to develop the interpersonal and leadership skills which help them to ace in any field or department they are interested in, helps in fostering the curiosity, collaboration and creativity.
             </p>
             <div className={styles.aboutMission}>
               <h3>Our Mission</h3>
@@ -66,7 +65,7 @@ export default function AboutSection() {
           <div className={styles.aboutStats} ref={statsRef}>
             <div className={styles.statCard}>
               <div className="stat-number" data-target="200">0</div>
-              <div className={styles.statLabel}>Members</div>
+              <div className={styles.statLabel}>Networks</div>
             </div>
             <div className={styles.statCard}>
               <div className="stat-number" data-target="50">0</div>

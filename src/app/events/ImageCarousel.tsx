@@ -7,23 +7,18 @@ const slides = [
   {
     image: "/images/some2.jpg",
     title: "E-Summit 2024",
-    description: "The largest entrepreneurship summit bringing together innovators, investors, and industry leaders.",
+    description: "Bringing together young entrepreneurs and industry experts through various workshops, empowering young innovators.",
   },
   {
     image: "/images/some2.jpg",
-    title: "Spring Fiesta Innovation",
-    description: "Celebrating innovation and entrepreneurship with exciting competitions and networking opportunities.",
+    title: "SSIP",
+    description: "SSIP (Student Startup and Innovation Policy) Gujarat is a state-wide initiative promoting student-led innovation, entrepreneurship, and problem-solving across educational institutions.",
   },
   {
     image: "/images/some2.jpg",
-    title: "Startup Talks & Mentorship",
-    description: "Learn from successful entrepreneurs and get mentorship from industry experts.",
-  },
-  {
-    image: "/images/some2.jpg",
-    title: "Pitch Perfect Competition",
-    description: "Showcase your startup ideas and compete for exciting prizes and funding opportunities.",
-  },
+    title: "KTB",
+    description: "An opportunity to learn and analyze about the multiple businesses in the city, and learn about the business directly from the entrepreneurs.",
+  }
 ];
 
 export default function ImageCarousel() {

@@ -1,16 +1,38 @@
 [
   {
     "id": "1",
-    "title": "Wonders of Nature",
-    "imageUrl": "some2.jpg",
+    "title": "E-Summit 2025",
+    "imageUrl": "/blogs/E-Summit 2025 Logo 1.png",
     "excerpt": "Explore the hidden beauty of the world around us...",
-    "content": "Nature is not a place to visit, it is home.\nWe are surrounded by beauty, we just have to notice it.\n\nIn this blog, we explore forests, mountains, and rivers."
+    "content": "E-Summit is the flagship event of Ruminate, a three-day celebration of ideas, innovation, and entrepreneurship. It is the stage where aspiring entrepreneurs meet visionaries, where challenges spark creativity, and where leadership is built through action.\nThe summit brings together a line-up of high-energy events designed to push students beyond their comfort zones. Speaker Sessions ignite inspiration as industry leaders and startup founders share their journeys, struggles, and successes. Corporate Crime sharpens problem-solving under pressure, pushing participants to think fast, analyze deeply, and act decisively. Youth Parliament transforms students into confident leaders, encouraging them to debate, negotiate, and present solutions to real issues with clarity and conviction. Adding a strategic twist, the IPL Auction blends fun with learning, as teams draft fantasy squads while mastering negotiation, resource allocation, and smart decision-making.\nBut E-Summit is more than competitions. It’s a community experience where students connect with mentors, network with like-minded peers, and step into the real world of entrepreneurship. Every activity is designed to strengthen essential entrepreneurial qualities – leadership, teamwork, innovation, and resilience.\nFor three days, the energy on campus was electric. The buzz of ideas, the thrill of competition, and the inspiration from speakers make E-Summit not just an event but a transformational experience that stays with every participant long after the closing ceremony.\nWhat makes E-Summit truly special is the blend of learning and action. Students don’t just listen and observe; they participate, compete, and experiment with their ideas. This immersive environment ensures that every attendee walks away not only with memories but also with the confidence and mindset to take their first steps into the world of entrepreneurship."
   },
   {
     "id": "2",
-    "title": "Urban Exploration",
-    "imageUrl": "some2.jpg",
-    "excerpt": "Cities hide stories behind every alley...",
-    "content": "Walking through a city tells you more than reading its history books.\nWe explore graffiti art, local cuisine, and old neighborhoods.\n\nCome with us!"
+    "title": "KTB",
+    "imageUrl": "/blogs/ktb.jpg",
+    "excerpt": "Learning entrepreneurship from the streets of Surat.",
+    "content": "This event was designed to bring students closer to the real world of business. Participants formed teams of three and explored a local business in Surat, studying how it operates, what challenges it faces, and how it connects with customers. From small shops to established enterprises, every team got a chance to see how business decisions are made in practice.\nAfter their exploration, the teams prepared and presented a business model in their own unique way. Using the knowledge they had gathered, students explained what makes the business work, where improvements could be made, and how it could grow further. Each presentation reflected creativity, analytical thinking, and problem-solving skills.\nThe event wasn’t about textbooks or theories — it was about learning directly from entrepreneurs who are already running successful ventures. By stepping into their shoes, students developed observation skills, confidence, and an entrepreneurial mindset. “Know the Business” became a platform to transform curiosity into practical learning and enhance the qualities needed to think like a true entrepreneur.\n"
+  },
+  {
+    "id": "3",
+    "title": "Orientation 2025",
+    "imageUrl": "/blogs/Orientation25.JPG",
+    "excerpt": "Introducing our first-year students to the world of entrepreneurship.",
+    "content": "Ruminate organized a two-day orientation to welcome first-year students and introduce them to the workings of the club. During the session, all the leads – Event Head, Finance Head, Corporate Head, Design Head, Marketing Head, Tech Head, Content Head, and Media Head – shared insights about their roles and responsibilities in Ruminate. Students learned how events are planned and executed, how finances are managed, how marketing and corporate partnerships work, and how creative, technical, and content strategies support the club’s vision. The Event Head specifically discussed the step-by-step process of organizing events, giving students a clear understanding of the planning, execution, and post-event evaluation process.\nIn addition to presentations, the orientation featured interactive activities and games designed to nurture entrepreneurial skills such as creativity, critical thinking, teamwork, and leadership. Participants competed in challenges that simulated real-world problem-solving, decision-making, and idea generation. Winners were rewarded with goodies, making the learning experience both fun and motivating.\nThe orientation also included open discussions and Q&A sessions where students could clarify their doubts, share ideas, and understand how they could actively contribute to the club. By the end of the program, students not only understood the structure and operations of Ruminate but also felt empowered to engage in initiatives, bring fresh ideas, and develop an entrepreneurial mindset from the start of their college journey."
+  },
+  {
+    "id": "4",
+    "title": "SMC ICCC Visit",
+    "imageUrl": "/blogs/smc_iccc.JPG",
+    "excerpt": " Inside Surat’s brain of smart city management.",
+    "content": "The Integrated Command and Control Centre (ICCC) of Surat Municipal Corporation is the central hub of the city’s smart governance. It brings together advanced technology and data-driven systems to manage traffic, the BRTS network, cleanliness drives, public safety, and the upkeep of important spaces like Dumas. Acting as the “nerve center” of Surat, the ICCC ensures that decisions are taken quickly and effectively to keep the city safe, clean, and efficient for its citizens.\nRuminate organized a visit for students to this facility, where the ICCC team guided us through the different operations and explained how the system works on a day-to-day basis. From live monitoring of traffic and buses to data dashboards tracking cleanliness, students got a first-hand view of how technology makes civic management possible.\nOur students explored the control rooms where hundreds of cameras, real-time analytics, and decision-making tools come together. The employees patiently walked us through how departments coordinate and execute tasks, offering us a unique behind-the-scenes experience of how Surat stays organized and progressive.\nThe visit was more than an introduction to civic technology — it was a hands-on learning experience that showed our students how innovation and governance come together to make cities smarter. It not only broadened their understanding but also inspired them to think of practical ways technology can solve real-world problems.\n"
+  },
+  {
+    "id": "5",
+    "title": "Speaker Session",
+    "imageUrl": "/blogs/Speaker Session.JPG",
+    "excerpt": "Innovation and entrepreneurship from our own alumni.",
+    "content": "We had the privilege of hosting Krishna Ojha, CEO, and Ekta Arora, COO of KasperTech, both Directors of the urban automation startup founded by our own alumni. KasperTech is transforming smart city management through Artificial Intelligence and IoT, with products like UltraviZ for AI-based road surveillance and Luminox for smart street lighting.\nDuring the session, Krishna and Ekta shared their journey from being students to leading a startup that is shaping the future of smart cities. They gave students insights into real-world entrepreneurship, technology application, and how innovation can solve urban challenges. The session was interactive, with students asking questions about startup challenges, product development, and leadership.\nIt was inspiring to see alumni not just succeed in the entrepreneurial world, but also come back to guide and motivate students. The session sparked curiosity, encouraged entrepreneurial thinking, and reminded everyone that great ideas can start right from their own campus experience.\n"
   }
 ]
+

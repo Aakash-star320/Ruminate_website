@@ -50,7 +50,7 @@ export default function CardsSection() {
             </div>
             <h3 className={styles.cardTitle}>Innovation</h3>
             <p className={styles.cardDescription}>
-              We foster a culture of innovation, encouraging creative thinking and breakthrough solutions that reshape industries.
+             Ruminate encourages participants to think beyond textbooks and develop practical, scalable solutions and innovation is driven by curiosity, collaboration, and continuous learning. Ruminate transforms ideas into action.
             </p>
             <div className={styles.cardFooter}>
               <span className={styles.cardNumber}>01</span>
@@ -66,7 +66,7 @@ export default function CardsSection() {
             </div>
             <h3 className={styles.cardTitle}>Growth</h3>
             <p className={styles.cardDescription}>
-              Empowering students to transform ideas into reality through mentorship, resources, and real-world experience.
+              The club has expanded in scope and influence evolving from small discussions to large-scale events, industry collaborations, and startup mentorship programs. A club where students not only learn but also lead.
             </p>
             <div className={styles.cardFooter}>
               <span className={styles.cardNumber}>02</span>
@@ -82,7 +82,7 @@ export default function CardsSection() {
             </div>
             <h3 className={styles.cardTitle}>Community</h3>
             <p className={styles.cardDescription}>
-              Building a vibrant ecosystem where entrepreneurs thrive, collaborate, and create lasting impact together.
+              This growing community encourages open dialogue, cross-domain collaboration, and peer-to-peer learning, helping members expand their horizons and build lasting connections.
             </p>
             <div className={styles.cardFooter}>
               <span className={styles.cardNumber}>03</span>

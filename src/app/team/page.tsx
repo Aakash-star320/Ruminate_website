@@ -66,7 +66,7 @@ export default function TeamPage() {
             <div className="back-layer"></div>
             <img
               className="front-image"
-              src="/images/some2.jpg"
+              src="/coreTeam/IMG_3866.JPG"
               alt="Team Photo"
             />
           </div>
@@ -104,7 +104,7 @@ export default function TeamPage() {
             {team.map((member, index) => (
               <div className="card" key={index}>
                 <img
-                  src={`/images/${member.img}`}
+                  src={`${member.img}`}
                   alt={member.name}
                   onError={(e) => {
                     e.currentTarget.src = '/images/some2.jpg'; // Fallback image

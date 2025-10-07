@@ -45,7 +45,7 @@ export default function Blogs() {
         {blogs.map((blog) => (
           <div className="blog-card" key={blog.id}>
             <img
-              src={`/images/${blog.imageUrl}`}
+              src={`${blog.imageUrl}`}
               alt={blog.title}
               className="blog-card-image"
             />

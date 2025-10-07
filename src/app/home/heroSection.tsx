@@ -24,7 +24,7 @@ export default function HeroSection() {
             Welcome to Ruminate – The E-Cell of IIIT Surat
           </p>
           <p className={styles.heroDescription}>
-            &quot;We foster a culture of innovation, creativity, and entrepreneurial thinking — empowering students to explore, build, and lead.&quot;
+           "We foster a culture of innovation, creativity, and entrepreneurial thinking — empowering students to explore, build, and lead."
           </p>
           {/* <div className={styles.heroButtons}>
             <a href="/events" className={`${styles.heroButton} ${styles.heroBtnPrimary}`}>
