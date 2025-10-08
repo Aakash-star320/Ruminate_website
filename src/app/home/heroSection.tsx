@@ -26,7 +26,7 @@ export default function HeroSection() {
           </p>
 
           <p className={styles.heroDescription}>
-            We foster a culture of innovation, creativity, and entrepreneurial thinking — empowering students to explore, build, and lead.
+            We foster a culture of innovation, creativity, and entrepreneurial thinking &mdash; empowering students to explore, build, and lead.
           </p>
 
           {/* <div className={styles.heroButtons}>
