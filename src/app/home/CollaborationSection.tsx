@@ -27,7 +27,7 @@ export default function CollaborationSection() {
       if (el && !userInteracting.current) {
         el.scrollBy({ left: 1, behavior: "smooth" });
         if (el.scrollLeft + el.clientWidth >= el.scrollWidth - 1) {
-          el.scrollTo({ left: 0, behavior: "smooth" });
+          clearInterval(interval);
         }
       }
     }, 20);
