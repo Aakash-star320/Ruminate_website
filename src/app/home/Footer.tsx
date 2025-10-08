@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useState } from "react"; 
+import { useState } from "react"; // <-- ADD THIS
 import styles from "./home.module.css";
 import { FaInstagram, FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 
@@ -78,7 +78,7 @@ export default function Footer() {
           <input
             type="email"
             placeholder="Your Email"
-            className={styles.input_footer}
+            className={styles.input}
             value={email}
             onChange={(e) => setEmail(e.target.value)}
           />

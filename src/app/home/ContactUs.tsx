@@ -5,19 +5,19 @@ import Link from "next/link";
 
 const members = [
   {
-    name: "Pratik Avhad",
+    name: "Ronit Choudhary",
     role: "Tech Head",
-    image: "/contactUs/Copy of Pratik.JPG",
+    image: "/contactUs/Copy of Ronit.JPG",
   },
   {
-    name: "Vivek Baya",
+    name: "Himanshu Shekhar",
     role: "Secretary",
     image: "/contactUs/Copy of Vivek.JPG",
   },
   {
-    name: "Ronit Choudhary",
+    name: "Pratik Avhad",
     role: "Joint Secretary",
-    image: "/contactUs/Copy of Ronit.JPG",
+    image: "/contactUs/Copy of Pratik.JPG",
   },
 ];
 
